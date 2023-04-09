@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkTest/1.0.0": {
+        "dependencies": {
+          "TestWork": "1.0.0"
+        },
+        "runtime": {
+          "WorkTest.dll": {}
+        }
+      },
+      "TestWork/1.0.0": {
+        "runtime": {
+          "TestWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

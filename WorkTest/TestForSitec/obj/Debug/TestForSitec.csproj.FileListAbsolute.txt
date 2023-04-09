@@ -1,0 +1,12 @@
+C:\Users\sente\source\repos\WorkTest\TestForSitec\bin\Debug\TestForSitec.dll
+C:\Users\sente\source\repos\WorkTest\TestForSitec\bin\Debug\TestForSitec.pdb
+C:\Users\sente\source\repos\WorkTest\TestForSitec\obj\Debug\TestForSitec.csproj.AssemblyReference.cache
+C:\Users\sente\source\repos\WorkTest\TestForSitec\obj\Debug\TestForSitec.csproj.CoreCompileInputs.cache
+C:\Users\sente\source\repos\WorkTest\TestForSitec\obj\Debug\TestForSitec.dll
+C:\Users\sente\source\repos\WorkTest\TestForSitec\obj\Debug\TestForSitec.pdb
+D:\WorkTest\TestForSitec\bin\Debug\TestForSitec.dll
+D:\WorkTest\TestForSitec\bin\Debug\TestForSitec.pdb
+D:\WorkTest\TestForSitec\obj\Debug\TestForSitec.csproj.AssemblyReference.cache
+D:\WorkTest\TestForSitec\obj\Debug\TestForSitec.csproj.CoreCompileInputs.cache
+D:\WorkTest\TestForSitec\obj\Debug\TestForSitec.dll
+D:\WorkTest\TestForSitec\obj\Debug\TestForSitec.pdb

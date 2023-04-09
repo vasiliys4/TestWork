@@ -1,0 +1,14 @@
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\bin\Debug\TestForSitec.dll
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\bin\Debug\TestForSitec.pdb
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sente\source\repos\WorkTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
